@@ -1,0 +1,3 @@
+id: "20200428134037.79872000"
+project-name: inventory-ms-spring
+stack: docker.io/kabanero/java-spring-boot2:0.3
